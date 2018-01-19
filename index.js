@@ -1,6 +1,6 @@
 const app = "I don't do much."
 
 function destructivelyAppendKitten(name) {
-  kittens.unshift("kitten")
+  kittens.unshift("Ralph")
   return kittens
 }
